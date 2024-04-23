@@ -1,0 +1,163 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+h1{
+  background-color: #151313;
+  color: #fff;
+  text-shadow: #FC0 1px 0 10px;
+  text-align: center;
+  padding: 20px 0;
+
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 3rem;
+  box-shadow: 0 0 10px rgba(77, 67, 67, 0.637);
+}
+
+.MRS{
+  background-color: #1e1b1b;
+  padding-bottom: 1rem;
+}
+
+.movie-form {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(238, 104, 104, 0.637);
+}
+
+.movie-form h2 {
+  margin-top: 0;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-family: "Lexend Deca", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 2rem;
+  color: #161616;
+  text-shadow: 1px 1px 2px pink;
+}
+
+.movie-form input[type="text"],
+.movie-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 1.5rem;
+  /* box-shadow: 0 0 10px rgba(77, 67, 67, 0.637); */
+}
+
+.movie-form button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: "Lexend Deca", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  /* font-size: 2rem; */
+}
+
+.movies {
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.movie{
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(243, 240, 240, 0.637);
+}
+
+.movie h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-family: "Lexend Deca", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 2rem;
+}
+
+.movie p {
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 1.5rem;
+  box-shadow: 0 0 10px rgba(77, 67, 67, 0.39);
+}
+
+.actions {
+  text-align: right;
+}
+
+.movie button {
+  padding: 5px 10px;
+  margin-left: 5px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: "Lexend Deca", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 1rem;
+}
+
+.actions button {
+  padding: 5px 10px;
+  margin-left: 5px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: "Lexend Deca", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 1rem;
+}
+
+.movie input[type="text"],
+.movie textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 1.5rem;
+}
